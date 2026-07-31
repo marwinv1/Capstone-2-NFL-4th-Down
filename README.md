@@ -1,10 +1,10 @@
 # DS_Capstone_Template
 # Data Science Capstone Project 2
-# 🏈 NFL 4th-Down Decision Engine & Analytics Dashboard
+# NFL 4th-Down Decision Engine & Analytics Dashboard
 
 ![NFL Logo](image/NFLlogo.jpg)
 
-## 📌 Project Overview & BLUF
+## Project Overview & BLUF
 
 ### **Overview**
 This project builds an end-to-end 4th-down decision engine designed to help NFL coaches make smarter, data-driven play-calling choices rather than relying purely on traditional "gut feelings." We started with deep exploratory data analysis (EDA) and a baseline Logistic Regression model, then progressed to an optimized machine learning classification pipeline (XGBoost). 
@@ -18,7 +18,7 @@ The final solution integrates a production-ready scikit-learn pipeline with an i
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 ├── image/                     # Project screenshots, diagrams, and logos
@@ -37,7 +37,7 @@ The final solution integrates a production-ready scikit-learn pipeline with an i
 
 
 
-## 📁 Data Usage Guide
+## Data Usage Guide
 
 * **Dataset Location:** `data/nfl_4th_down_cleaned.csv`
 * **Dataset Scope:** 3,619 cleaned historical 4th-down plays used for model training and Tableau visualizations.
